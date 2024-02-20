@@ -26,11 +26,7 @@ This repository contains files for a Call Centre Analysis Dashboard built with P
 - Interact with data dynamically.
 - Export for further analysis.
 
-## Feedback
-For questions or feedback, create an issue or contact [Your Name] at [Your Email].
-
 ## Contributing
 Fork, modify, and submit pull requests to enhance the dashboard.
 
-## License
-MIT License
+
